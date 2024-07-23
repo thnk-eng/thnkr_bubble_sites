@@ -1,0 +1,11 @@
+.DS_Store
+*.pem
+
+/bubble_api_docs/.DS_Store
+/bubble_thnkr_market/.DS_Store
+/personal_portfolio/.DS_Store
+/product_landing/.DS_Store
+/thnkai_marketing/.DS_Store
+/version_changes/.DS_Store
+
+
